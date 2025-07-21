@@ -39,7 +39,7 @@
                         </ul>
                     </div>
                     <div class="price-footer">
-                        <a class="btn btn-custom" href="">Book Now</a>
+                        <a class="btn btn-custom" href="/dashboard/plans">Book Now</a>
                     </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@
                         </ul>
                     </div>
                     <div class="price-footer">
-                        <a class="btn btn-custom" href="">Book Now</a>
+                        <a class="btn btn-custom" href="/dashboard/plans">Book Now</a>
                     </div>
                 </div>
             </div>
@@ -79,7 +79,7 @@
                         </ul>
                     </div>
                     <div class="price-footer">
-                        <a class="btn btn-custom" href="">Book Now</a>
+                        <a class="btn btn-custom" href="/dashboard/plans">Book Now</a>
                     </div>
                 </div>
             </div>

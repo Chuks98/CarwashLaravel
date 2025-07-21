@@ -20,11 +20,11 @@
             <div class="col-lg-3 col-md-6">
                 <div class="footer-link">
                     <h2>Popular Links</h2>
-                    <a href="">About Us</a>
-                    <a href="">Contact Us</a>
-                    <a href="">Our Service</a>
+                    <a href="/about">About Us</a>
+                    <a href="/contact">Contact Us</a>
+                    <a href="/services">Our Service</a>
                     <a href="">Service Points</a>
-                    <a href="">Pricing Plan</a>
+                    <a href="/price">Pricing Plan</a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
@@ -32,17 +32,14 @@
                     <h2>Useful Links</h2>
                     <a href="">Terms of use</a>
                     <a href="">Privacy policy</a>
-                    <a href="">Cookies</a>
-                    <a href="">Help</a>
-                    <a href="">FQAs</a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="footer-newsletter">
                     <h2>Newsletter</h2>
                     <form>
-                        <input class="form-control" placeholder="Full Name" />
-                        <input class="form-control" placeholder="Email" />
+                        <input class="form-control text-white" placeholder="Full Name" />
+                        <input class="form-control text-white" placeholder="Email" />
                         <button class="btn btn-custom">Submit</button>
                     </form>
                 </div>
@@ -50,7 +47,7 @@
         </div>
     </div>
     <div class="container copyright">
-        <p>&copy; <a href="#">Your Site Name</a>, All Right Reserved. Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>
+        <p>&copy; Voeautocare. All Right Reserved. Designed By <a href="https://chukwuma-onyedika9.web.app" target="_blank">Mega-Clouds</a></p>
     </div>
 </div>
 <!-- Footer End -->

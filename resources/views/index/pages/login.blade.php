@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="csrf-token" content="{{ csrf_token() }}">
   <title>Login - Voeautocare</title>
-  <link rel="shortcut icon" type="image/png" href="{{ asset('dashboard-assets/images/logos/favicon.png') }}" />
+  <!-- Favicon -->
+  <link href="{{ asset('assets/img/fav.png') }}" rel="icon">
   <link rel="stylesheet" href="{{ asset('dashboard-assets/css/styles.min.css') }}" />
 </head>
 

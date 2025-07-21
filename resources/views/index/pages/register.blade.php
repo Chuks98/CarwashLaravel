@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="csrf-token" content="{{ csrf_token() }}">
   <title>Register - Voeautocare</title>
-  <link rel="shortcut icon" type="image/png" href="{{ asset('dashboard-assets/images/logos/favicon.png') }}" />
+  <!-- Favicon -->
+  <link href="{{ asset('assets/img/fav.png') }}" rel="icon">
   <link rel="stylesheet" href="{{ asset('dashboard-assets/css/styles.min.css') }}" />
   <style>
     .form-check-label {
@@ -25,7 +26,7 @@
       <!-- Registration Page Image -->
       <div class="text-center mt-5">
         <a href="{{ url('/') }}">
-          <img src="{{ asset('assets/imglogo.png') }}" alt="Register Illustration" class="img-fluid" style="max-height: 200px;">
+          <img src="{{ asset('assets/img/logo.png') }}" alt="Register Illustration" class="img-fluid" style="max-height: 200px;">
         </a>
       </div>
       <!-- Registration Form -->
